@@ -79,7 +79,7 @@ PyJWT==1.7.1
 pylint==2.6.0
 pyOpenSSL==20.0.1
 pyparsing==2.4.7
-pytest==6.2.1
+pytest==6.2.2
 pytest-asyncio==0.14.0
 pytest-django==4.1.0
 pytest-mock==3.5.1
